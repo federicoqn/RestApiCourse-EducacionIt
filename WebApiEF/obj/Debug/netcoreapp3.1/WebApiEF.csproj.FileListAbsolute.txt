@@ -1,0 +1,130 @@
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.exe
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.deps.json
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.runtimeconfig.json
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.runtimeconfig.dev.json
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.pdb
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.csproj.AssemblyReference.cache
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.AssemblyInfoInputs.cache
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.AssemblyInfo.cs
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.csproj.CoreCompileInputs.cache
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\WebApiEF.StaticWebAssets.Manifest.cache
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\WebApiEF.StaticWebAssets.Pack.cache
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApiEF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApiEF.props
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApiEF.props
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApiEF.props
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.RazorTargetAssemblyInfo.cache
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.csproj.CopyComplete
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.dll
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.pdb
+C:\Users\lartilles\source\repos\DemostracionesEF\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.genruntimeconfig.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.exe
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.deps.json
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.runtimeconfig.json
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.runtimeconfig.dev.json
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\WebApiEF.pdb
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.csproj.AssemblyReference.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.AssemblyInfoInputs.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.AssemblyInfo.cs
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.csproj.CoreCompileInputs.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\WebApiEF.StaticWebAssets.Manifest.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\WebApiEF.StaticWebAssets.Pack.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApiEF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApiEF.props
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApiEF.props
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApiEF.props
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.RazorTargetAssemblyInfo.cache
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.csproj.CopyComplete
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.dll
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.pdb
+C:\Users\lartilles\source\repos\DemostracionesEF - Practica\WebApiEF\obj\Debug\netcoreapp3.1\WebApiEF.genruntimeconfig.cache
