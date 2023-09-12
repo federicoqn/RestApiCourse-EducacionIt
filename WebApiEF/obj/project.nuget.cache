@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9l1oupa5AFTPLTkq8Np25Ud8mRsQauxm5hf67imnVWZPfmwucR0cgekjv2tFqCb/Uzei2JVbO7/GbMmTxF3VNA==",
+  "dgSpecHash": "+KeC+NMUG7OasiXrsnDTDZy5GbKCsF1+XyIvx8+Kv5iyf6alXc8I3e1yN8FNFRJJwGpAmMl7B9UKu76aa184Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fquinonez\\Downloads\\DemostracionesEF - Practica\\DemostracionesEF - Practica\\WebApiEF\\WebApiEF.csproj",
+  "projectFilePath": "C:\\Users\\fquinonez\\Documents\\Proyectos\\EducacionIT\\Clase4\\RestApiCourse-EducacionIt\\WebApiEF\\WebApiEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fquinonez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\fquinonez\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

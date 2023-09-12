@@ -15,11 +15,7 @@ namespace WebApiEF.Models
 
         public int AutorId { get; set; }
 
-        #region propiedades de navegacion
-        
         public Autor Autor { get; set; }
-
-        #endregion
 
     }
 }
