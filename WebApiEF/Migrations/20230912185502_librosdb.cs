@@ -12,7 +12,8 @@ namespace WebApiEF.Migrations
                 {
                     IdAutor = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Nombre = table.Column<string>(type: "varchar(50)", nullable: false)
+                    Nombre = table.Column<string>(type: "varchar(50)", nullable: false),
+                    Cuidad = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {

@@ -70,5 +70,11 @@ namespace WebApiEF.Controllers
 
             return NoContent();
         }
+
+        [HttpGet("{id}")]
+        public Libro GetLibrosByTitulo(string titulo)
+        {
+            return _context.Libro.SingleOrDefault(l => l.Titulo == titulo);
+        }
     }
 }

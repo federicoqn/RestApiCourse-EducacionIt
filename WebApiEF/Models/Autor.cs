@@ -14,10 +14,10 @@ namespace WebApiEF.Models
         [Column(TypeName = "varchar(50)")]
         public string Nombre { get; set; }
 
-        #region propiedades de navegacion
+        public string Cuidad { get; set; }
+
         public List<Libro> Libros { get; set; }
 
-        #endregion
 
     }
 }

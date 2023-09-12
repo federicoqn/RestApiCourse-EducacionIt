@@ -9,7 +9,7 @@ using WebApiEF.Data;
 namespace WebApiEF.Migrations
 {
     [DbContext(typeof(DBLibrosEFContext))]
-    [Migration("20230912182006_librosdb")]
+    [Migration("20230912185502_librosdb")]
     partial class librosdb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -26,6 +26,9 @@ namespace WebApiEF.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Cuidad")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
