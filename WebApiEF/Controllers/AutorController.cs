@@ -21,15 +21,21 @@ namespace WebApiEF.Controllers
         }
 
         [HttpGet("{id}")]
-        public Autor GetLibros(int id)
+        public Autor GetAutor(int id)
         {
             return _context.Autor.SingleOrDefault(a => a.IdAutor == id);
         }
 
         [HttpGet()]
-        public IEnumerable<Autor> GetAllLibros()
+        public IEnumerable<Autor> GetAllAutor()
         {
             return _context.Autor.ToList();
+        }
+
+        [HttpGet("cuidad/{cuidad}")]
+        public Autor GetAutorByCity(string cuidad)
+        {
+            return _context.Autor.SingleOrDefault(a => a.Cuidad == cuidad);
         }
 
         [HttpPost]
