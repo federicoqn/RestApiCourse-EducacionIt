@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using WebApiEF.Data;
+using WebApiEF.Helper;
 using WebApiEF.Models;
 
 namespace WebApiEF.Controllers
@@ -26,6 +27,7 @@ namespace WebApiEF.Controllers
             return _context.Libro.SingleOrDefault(l => l.IdLibro == id);
         }
 
+        [ServiceFilter(typeof(TestActionLibroAttribute))]
         [HttpGet()]
         public IEnumerable<Libro> GetAllLibros()
         {

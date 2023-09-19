@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using WebApiEF.Helper;
 
 namespace WebApiEF.Models
 {
@@ -9,6 +10,7 @@ namespace WebApiEF.Models
         [Key]
         public int IdLibro { get; set; }
 
+        [TestLibroValidationAttribute]
         [Required]
         [Column(TypeName = "varchar(50)")]
         public string Titulo { get; set; }

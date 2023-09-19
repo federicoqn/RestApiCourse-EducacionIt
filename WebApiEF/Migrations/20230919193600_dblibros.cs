@@ -2,7 +2,7 @@
 
 namespace WebApiEF.Migrations
 {
-    public partial class librosdb : Migration
+    public partial class dblibros : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

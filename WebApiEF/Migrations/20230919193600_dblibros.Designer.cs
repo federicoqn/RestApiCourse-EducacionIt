@@ -9,8 +9,8 @@ using WebApiEF.Data;
 namespace WebApiEF.Migrations
 {
     [DbContext(typeof(DBLibrosEFContext))]
-    [Migration("20230912185502_librosdb")]
-    partial class librosdb
+    [Migration("20230919193600_dblibros")]
+    partial class dblibros
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
